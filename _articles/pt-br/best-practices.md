@@ -39,17 +39,17 @@ Lembre-se de sempre manter sua documentação atualizada. Se você não pode sem
 
 ### Escreva sua visão de projeto
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+Inicie escrevendo os objetivos do seu projeto. Adicione-os ao seu README, ou crie um arquivo separado chamado VISION. Caso exista outros artefatos que possam ajudar, como um roadmap do projeto, torne-os público também.
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+Ter uma clara e documentada visão, o mentém focado e o ajuda a evitar "scope creep" de outras contribuições.
 
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+Como exemplo, @lord descobriu que tendo uma visão de projeto o ajudou a descobrir em quais requisições investir o seu tempo. Como um novo mantenedor, ele se arrepende não ter focado no escopo do seu projeto quando ele recebeu sua primeira requisição de funcionalidade para [Slate](https://github.com/lord/slate).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
   I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
   <p markdown="1" class="pquote-credit">
-— @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
+— @lord, ["Dicas para novos mantenedores de código aberto."](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
