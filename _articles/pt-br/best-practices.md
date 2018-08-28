@@ -55,24 +55,24 @@ Como exemplo, @lord descobriu que tendo uma visão de projeto o ajudou a descobr
 
 ### Comunique suas expectativas
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+Regras podem ser difíceis de escrever. Você pode se sentir como se estivesse policiando o comportamento ou estragando toda a graça.
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
+Escritas e aplicadas com razoabiliadde, boas regras empoderam os mantenedores. Elas previnem que você seja forçado a fazer coisas que você não quer fazer.
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+A maioria das pessoas que encontram seu projeto não sabem nada sobre você e suas condições. Eles podem assumir que você é pago para trabalhar no projeto, especialmente se for algo do qual eles dependem e que usam regularmente. Talvez em algum momento você tenha você tenha passado muito tempo trabalhando em seu projeto, mas agora você está ocupado com um novo trabalho ou um novo membro da familia.
 
-All of this is perfectly okay! Just make sure other people know about it.
+Tudo isso é perfeitamente normal! Apesas tenha certeza que as outras pessoas saibam disso.
 
-If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
+Se manter o seu projeto é um trabalho de meio-período ou apenas voluntariado, seja honesto sobre a quatidade de tempo que você possui para trabalhar nele. Isto não é a mesma coisa do que a quantidade de tempo você acha que o projeto necessita, ou quanto tempo os outros gostariam que você despendesse.
 
-Here are a few rules that are worth writing down:
+Aqui estão algumas regras que valem a pena ser escritas:
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_for example, "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_for example, "We only spend about 5 hours per week on this project"_)
+* Como uma contribuição é revisada e aceita (_Elas precisam ser testadas? Um modelo de defeito?_)
+* Os tipos de contribuição que você aceitará (_Você apenas gostaria de ajuda com uma parte especficia do seu código?_)
+* Quando é apropriado fazer um acompanhamento (_por exemplo, "Você pode esperar uma resposta do mantenedor dentro de 7 dias. Se não obtiver respostas após esse período, Sinta-se livre para para uma mensagem na tarefa de acompanhamento."_)
+* Quanto tempo você gasta com o projeto (_por exemplo, "Gastamos aproximadamente 5 horas por semana neste projeto"_)
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), e [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) são vários exemplos de projetos com regras para mantenedores e contribuidores.
 
 ### Mantenha a comunicação pública
 
